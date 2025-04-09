@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "Hello $USER"
+echo "Hello $PATH"
+read -p "Enter a number: " num
+echo "You entered $num"
