@@ -1,0 +1,10 @@
+total 56
+-rw-r--r--   1 li  staff  12358 Feb 20 14:01 CPUusage
+drwxr-xr-x  23 li  staff    736 Mar 26 13:55 Code
+drwxr-xr-x   2 li  staff     64 Jan 16 11:18 Exer1
+drwxr-xr-x   4 li  staff    128 Jan 22 14:37 Exer2
+-rwxr--r--   1 li  staff     37 Mar 19 13:57 hello
+-rwxr-xr--   1 li  staff     48 Feb  5 13:52 helloScript
+-rw-r--r--   1 li  staff      0 Mar 31 14:54 log.txt
+drwx------@ 22 li  staff    704 Mar 12 16:19 shellscriptDemo
+-rw-r--r--   1 li  staff     67 Apr  5  2023 test
